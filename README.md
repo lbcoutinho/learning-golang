@@ -14,6 +14,24 @@ Features:
 * Shuffle a deck
 
 ## structs
-The project contains examples of the syntax of structs, and some operations like create new, update values and print values.  
-Also contains examples of the usage of pointers.
+The project contains examples of structs.  
+* Define struct
+* Create object using struct type 
+* Update values
+* Print values
+* Pointers
+
+## maps
+The project contains examples of maps.  
+* Create empty maps 
+* Create and initialize map
+* Add and remove elements
+* Iterate over maps
+
+## interfaces and shapes
+These projects contain examples of interfaces.
+* Create interfaces
+* Implement interface function
+* Use interface type as argument
+
 
